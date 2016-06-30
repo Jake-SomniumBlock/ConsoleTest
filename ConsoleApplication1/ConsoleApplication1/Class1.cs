@@ -9,7 +9,7 @@ namespace ConsoleApplication1
     class Class1
     {
         public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string FlipFlops { get; set; }
         public string Address { get; set; }
     }
 }
